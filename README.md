@@ -1,6 +1,6 @@
 ## Replication data of "Using Machine Learning to Predict Future Code Smells" article
 ###	Folder structure:
-   * **RQ1&RQ2-COSP2-prediction-results/** — RQ1&RQ2-COSP2-prediction-results/ — COSP2 and three baselines prediction results for all smell types and prediction intervals.
+   * **RQ1&RQ2-COSP2-prediction-results/** — COSP2 and three baselines prediction results for all smell types and prediction intervals.
         * **cosp2-slope2-results/** — COSP2 prediction results when slope is set to 2.
         * **cosp2-slope5-results/** — COSP2 prediction results when slope is set to 5.
         * **cosp2-slope10-results/** — COSP2 prediction results when slope is set to 10.
